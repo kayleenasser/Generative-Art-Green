@@ -7,7 +7,7 @@ Opacity is random, shapes are random sizes. Placement is random. Generate random
 
 ## Examples of Finished Generative Pieces
 <img src = "ExampleScreenshots/green ex1.PNG" alt="Example 1" width = "300" />  
-<img src = "ExampleScreenshots/green ex7.PNG" alt="Example 2" width = "300" />  
+!<img src = "ExampleScreenshots/green ex7.PNG" alt="Example 2" width = "300" />  
 <img src = "ExampleScreenshots/green ex2.PNG" alt="Example 3" width = "300" />  
 <img src = "ExampleScreenshots/green ex6.PNG" alt="Example 4" width = "300" />  
 <img src = "ExampleScreenshots/green ex3.PNG" alt="Example 5" width = "300" />  
