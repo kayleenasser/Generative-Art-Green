@@ -4,6 +4,10 @@ User can click to create more shapes until they are pleased, or clear all shapes
 Processing code for randomly generated green shapes.
 Opacity is random, shapes are random sizes. Placement is random. Generate random pieces of art.
 
+## To Run:
+Install Processing 4.0 or later: https://processing.org/download
+Open the file "green.pde" using Processing.
+Click run at the top left.
 
 ## Examples of Finished Generative Pieces
 <p float="left">
