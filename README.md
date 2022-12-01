@@ -7,7 +7,11 @@ Opacity is random, shapes are random sizes. Placement is random. Generate random
 ## How to Run:
 Install Processing 4.0 or later: https://processing.org/download <br /> 
 Open the file "green.pde" using Processing. <br /> 
-Click run at the top left. <br /> 
+Press the play button at the top left to run the code. <br /> 
+
+### User Inputs
+To create more shapes: Right Click <br />
+To erase shapes: Press "b" or "B"
 
 ## Examples of Finished Generative Pieces
 <p float="left">
