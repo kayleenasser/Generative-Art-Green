@@ -18,7 +18,7 @@ void setup() {
   for (int i = 0; i < amount_of_shapes; i++) {
     float x = random(random(0.25, 0.8), 0.18) * width;
     float y = random(random(0.05, 0.8), 0.18) * height;
-    float w = random(width * 0.25) * random(random(4.5));
+    float w = random(cx * 0.25) * random(random(4.5));
     float h = random(0.5, 1.5) * w;
     float a = int(random(5)) * TAU / 8;
     float n = int(random(3));
@@ -83,7 +83,7 @@ void keyPressed() {
     for (int i = 0; i < amount_of_shapes; i++) {
       float x = random(random(0.25, 0.8), 0.18) * width;
       float y = random(random(0.05, 0.8), 0.18) * height;
-      float w = random(width * 0.25) * random(random(4.5));
+      float w = random(cx * 0.25) * random(random(4.5));
       float h = random(0.5, 1.5) * w;
       float a = int(random(5)) * TAU / 8;
       float n = int(random(3));
