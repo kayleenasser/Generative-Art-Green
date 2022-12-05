@@ -19,6 +19,10 @@ To erase shapes: Press "b" or "B"
 <img src = "ExampleScreenshots/green ex7.PNG" alt="Example 2" width = "300" />  
 </p>
 <p float="left">
+<img src = "ExampleScreenshots/green ex9.PNG" alt="Example 9" width = "300" /> 
+<img src = "ExampleScreenshots/green ex10.PNG" alt="Example 10" width = "300" />  
+</p>
+<p float="left">
 <img src = "ExampleScreenshots/green ex2.PNG" alt="Example 3" width = "300" />  
 <img src = "ExampleScreenshots/green ex6.PNG" alt="Example 4" width = "300" />  
 </p>
@@ -29,8 +33,4 @@ To erase shapes: Press "b" or "B"
 <p float="left">
 <img src = "ExampleScreenshots/green ex8.PNG" alt="Example 7" width = "300" /> 
 <img src = "ExampleScreenshots/green ex3.PNG" alt="Example 8" width = "300" />  
-</p>
-<p float="left">
-<img src = "ExampleScreenshots/green ex9.PNG" alt="Example 9" width = "300" /> 
-<img src = "ExampleScreenshots/green ex10.PNG" alt="Example 10" width = "300" />  
 </p>
