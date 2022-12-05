@@ -16,7 +16,7 @@ void setup() {
   cx = width / 2;
   cy = height / 2;
   for (int i = 0; i < amount_of_shapes; i++) {
-    float x = random(random(0.25, 0.8), 0.18) * width;
+    float x = random(random(0.05, 0.8), 0.18) * width;
     float y = random(random(0.05, 0.8), 0.18) * height;
     float w = random(cx * 0.25) * random(random(4.5));
     float h = random(0.5, 1.5) * w;
@@ -71,17 +71,23 @@ void backPressed() {
 
 void keyPressed() {
   if (keyPressed) {
-    if (key == 'b' || key == 'B') {
+    if (key == 'c' || key == 'C') {
       background(#FFFFFF);
       fill(#011c01);
       rect(50, 50, 800, 800);
+    }
+    if (key == 'b' || key == 'B'){
+      fill(#FFFFFF, 0);
+      stroke(#FFFFFF, 250);
+      strokeWeight(99);
+      rect(0, 0, width, height);
     }
   }
 }
 
   void mousePressed() {
     for (int i = 0; i < amount_of_shapes; i++) {
-      float x = random(random(0.25, 0.8), 0.18) * width;
+      float x = random(random(0.05, 0.8), 0.18) * width;
       float y = random(random(0.05, 0.8), 0.18) * height;
       float w = random(cx * 0.25) * random(random(4.5));
       float h = random(0.5, 1.5) * w;
