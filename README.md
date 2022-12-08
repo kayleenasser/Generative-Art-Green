@@ -1,5 +1,8 @@
 # "Green" Interactive Generative Shapes
 ### Generative Art Term Project 311.24 
+<p> For this project, I had trouble coming up for ideas as to what to make. The prompt "Green" had really drawn me in, as it was very vague, so it gave me a lot of room to work with. I started off by looking through famous artists who focused on the abstraction of shapes. I looked into the work of specficially Lyubov Popova and Kazimir Malevich. I think both of these artists are very successful at utilizing colour and shape to create a unified and interesting piece. With the prompt green, I wanted to create something similar while using a randomly generated process. My tool of choice was Processing 4.0, using it's java feature. I am familiar with java so using Processing was not the learning curve for myself that it may have been for some. </p>
+<p> Working with the ideas similar to Popova and Kazimir, I first played around with generating random shapes. </p> 
+
 User can click to create more shapes until they are pleased, place a border overtop by pressing 'b', or clear all shapes by pressing 'c'.
 Processing code for randomly generated green shapes.
 Opacity is random, shapes are random sizes. Placement is random. Generate random pieces of art.
